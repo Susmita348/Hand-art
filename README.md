@@ -18,5 +18,7 @@ Vite
 MediaPipe Hand Landmarker
 HTML Canvas API
 Webcam API
+
+
 📸 Screenshots
 <img width="1280" height="720" alt="hand-art" src="https://github.com/user-attachments/assets/730d870a-ceaa-4ca3-be11-fc69b60e29b8" />
